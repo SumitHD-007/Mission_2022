@@ -1,0 +1,63 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 36px;
+    border-left: darkgoldenrod;
+}
+.border-edit{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.header-color{
+    color: rgb(49, 209, 76);
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(brown, orange);
+    padding: 7px 30px;
+    color: blue;
+    font-weight: 900;
+    border-radius: 2px;
+}
+.side-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.side-width img{
+    width: 60%;
+}
+.text-center{
+    margin: auto;
+    width: 80%;
+    text-align: right;
+}
+.sub-color{
+    background-image: linear-gradient(white);
+    color: blueviolet;
+}
+.illustrate-edit img{
+    margin-bottom: 20px;
+    width: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 20px 25px gray;
+    border-left: 10px solid blue;
+}
+.illustrate-edit{
+    width: 40%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 20px 25px gray;
+}
