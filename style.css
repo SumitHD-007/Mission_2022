@@ -61,3 +61,8 @@ h1{
     border-radius: 10px;
     box-shadow: 10px 20px 25px gray;
 }
+.mid-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
