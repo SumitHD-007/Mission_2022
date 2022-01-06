@@ -29,7 +29,7 @@ h1{
 }
 .side-width{
     width: 50%;
-    padding-left: 10%;
+    padding-left: 5%;
     margin-bottom: 100px;
 }
 .side-width img{
@@ -94,4 +94,10 @@ footer{
     background-image: url(shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.img-add{
+    background-image: url(pictures/some.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
 }
