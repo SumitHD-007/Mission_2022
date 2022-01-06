@@ -90,3 +90,8 @@ footer{
     background-color: darkkhaki;
     color: blue;
 }
+.image-add{
+    background-image: url(shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
